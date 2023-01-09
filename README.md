@@ -1,3 +1,5 @@
 # Request Header Parser Microservice
 
-This is the boilerplate for the Request Header Parser Microservice project. Instructions for building your project can be found at https://www.freecodecamp.org/learn/apis-and-microservices/apis-and-microservices-projects/request-header-parser-microservice
+This project is one of five required microservices for the FreeCodeCamp Back-End Development and API Certification 
+
+the purpose of this microservice is to demonstrate understanding of GET requests with NODE.JS and Express.
